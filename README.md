@@ -1,5 +1,4 @@
 # Praktikum 5 Basis Data
-# Basis-data-praktikum-5
 
 ```
 Latihan
